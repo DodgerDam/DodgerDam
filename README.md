@@ -12,10 +12,11 @@ J'ai pu acquérir au travers des mes différents développements, des compétanc
 L'utilisation de bases de données implique le développement de procédures stockées en PL/SQL ainsi que l'optimisation de requêtes.
 
 
-Quelques stats Github:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DodgerDam&theme=radical&hide_langs_below=8)
-![](https://github-readme-stats.vercel.app/api?username=DodgerDam&show_icons=true&theme=radical&count_private=true)
-
+Quelques stats Github:<br>
+<span style="align=center">
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DodgerDam&theme=radical&hide_langs_below=8)
+  ![](https://github-readme-stats.vercel.app/api?username=DodgerDam&show_icons=true&theme=radical&count_private=true)
+</span>
 
 
 
