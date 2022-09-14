@@ -1,9 +1,4 @@
 
-var mailtoLink = require('mailto-link')
-
-mailtoLink({to: 'bvdrucker@gmail', subject: 'Nice mailto lib'})
-//=> mailto:bvdrucker@gmail.com?subject=Nice%20mailto%20lib
-
 <a href link="https://www.linkedin.com/in/damien-slowensky-18ba6084/"/> <img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin"> <a/>
 <a href link="mailto:damien.slowensky@gmail.com"/> <img src="https://img.shields.io/badge/Email--lightgrey?style=social&logo=gmail"> <a/>
 
